@@ -26,4 +26,37 @@ $^
 
 * MAIN CONTENT
 
+$%.main
+$br5
+$!.min-large intro|Hello, 
+$!.min-large intro|World
+$br1
+$!.italic intro|Welcome to the Coding Club at Tuscarora!
+$br9
+$#. | # Announcements
+$br1
+$!. |Interest meeting on
+$!.red|September 10th
+$!. | → At 8:30
+$br9
+$#. | # Story
+$br1
+$%.left
+$!. |if (
+$!.red|codingClub
+$!. |== 
+$!.orange|undefined
+$!. |) {
+$br1
+$!. |&nbsp;&nbsp;&nbsp;&nbsp;ethan.
+$!.blue|append
+$!. |(
+$!.red|New
+$!. |.Club );
+$br1
+$!. |}
+$^
+$br5
+$^
+
 
