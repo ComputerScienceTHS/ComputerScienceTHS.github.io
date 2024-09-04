@@ -10,6 +10,9 @@ body{
 .rotate-hover{
     display: inline-flex;
 }
+.min-large{
+    font-size: 30px;
+}
 .rotate-hover:hover{
     transform: scale(1.5) rotate(-45deg);
 }
@@ -47,6 +50,22 @@ body{
         transform: translate(0,0px);
     }
 }
+.red{
+    color:rgb(204, 36, 36);
+}
+.main{
+    position: absolute;
+    top:100%;
+    left:50%;
+    transform: translate(-50%);
+}
+.italic{font-style: italic;}
+span, h2{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.intro{
+    font-family: serif!important;
+}
 /* .blue{color:rgb(136, 136, 255);} */
 .blue{color:rgb(102, 102, 255);}
 .grad{
@@ -79,6 +98,10 @@ body{
     white-space: nowrap;
     background-size: 200%;
 }
+.orange{
+    color: orange;
+}
+.left{text-align:left;}
 .activate:hover > .hover-gradalt{
     animation: background-pan 3s linear infinite;
     background-image: linear-gradient(to right, rgb(136, 255, 148),lightgreen,rgb(102, 255, 112));
