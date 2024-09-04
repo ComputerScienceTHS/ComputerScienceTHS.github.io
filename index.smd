@@ -1,0 +1,29 @@
+$t. Computer Science Club THS
+$f.https://cdn-icons-png.flaticon.com/512/4703/4703650.png
+$=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+$=flake.css
+
+&head
+$br2
+
+* BODY HEADER
+$%.header
+$%.large bold
+$!.blue|Computer 
+$%.rotate-hover
+$!.blue|Science
+$^
+$!. |Club
+$!. |&nbsp;&nbsp;&nbsp;
+$i.fa fa-laptop grad right-head
+$^
+$^
+
+*FOOTER 
+$%.foot
+$!.lgray|↓
+$^
+
+* MAIN CONTENT
+
+
