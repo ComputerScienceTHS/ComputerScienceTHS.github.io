@@ -9,7 +9,14 @@ $br2
 * BODY HEADER
 $%.header
 $%.large bold
-$!.blue|Computer 
+$!.blue JUMP|C
+$!.blue JUMP|o
+$!.blue JUMP|m
+$!.blue JUMP|p
+$!.blue JUMP|u
+$!.blue JUMP|t
+$!.blue JUMP|e
+$!.blue JUMP|r
 $%.rotate-hover
 $!.blue|Science
 $^
@@ -32,12 +39,29 @@ $!.min-large intro|Hello,
 $!.min-large intro|World
 $br1
 $!.italic intro|Welcome to the Coding Club at Tuscarora!
+$br1
+$!.italic|Leadership
+$br1
+$!.italic intro bold| President:
+$!.italic intro| Ethan Schauder
+$br1
+$!.italic intro bold| Vice President:
+$!.italic intro| Aedan Mills
+$br1
+$!.italic intro bold| Developer:
+$!.italic intro| Easton Snow
 $br9
 $#. | # Announcements
 $br1
 $!. |Interest meeting on
 $!.red|September 10th
 $!. | → At 8:30
+$br1
+$!. |Meeting every 
+$!.blue italic|Tuesday 
+$!. |following
+$br1
+$!.blue|More coming soon...
 $br9
 $#. | # Story
 $br1
