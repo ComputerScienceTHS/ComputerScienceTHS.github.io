@@ -79,6 +79,8 @@ $br1
 $!. |}
 $^
 $br5
+$!.italic serif|Powerd by,
+$i.fa fa-snowflake-o
 $^
 
 
