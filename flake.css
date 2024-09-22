@@ -1,8 +1,9 @@
-*{transition: 0.3s;color: #242424;margin:0;padding:0;}
+*{transition: 0.3s;color: white;margin:0;padding:0;}
 body{
     text-align:center;
     background-color: white;
     font-family: sans-serif;
+    background-color:#2e2e2e;
 }
 .medium{
     font-size: 40px;
@@ -51,7 +52,7 @@ body{
     }
 }
 .red{
-    color:rgb(204, 36, 36);
+    color:rgb(249, 80, 80);
 }
 .main{
     position: absolute;
@@ -81,9 +82,12 @@ span, h2{
 .JUMP{
     display: inline-flex;
 }
+.serif{
+    font-family: serif;
+}
 .JUMP:hover{
     transform: scale(1.3);
-    color:blue;
+    color:rgb(139, 139, 242);
 }
 .shift-grad:hover{
     animation: background-pan 3s linear infinite;
